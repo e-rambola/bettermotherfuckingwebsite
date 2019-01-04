@@ -1,3 +1,3 @@
-Le site bettermotherfuckingwebsite contient des codes html et des codes java script qui après 10 secondes lance un popup pour les visiteurs du site qui les dirige vers un autre site
+Le site bettermotherfuckingwebsite contient des codes html, CSS et des codes java script qui après 10 secondes lance un popup qui peut diriger vers un autre site si "ok" est cliqué
 
-https://e-rambola.github.io/bettermotherfuckingwebsite/
+lien vers le site en production https://e-rambola.github.io/bettermotherfuckingwebsite/
