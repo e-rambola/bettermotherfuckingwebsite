@@ -1,4 +1,4 @@
-projet mardi et mercredi
+projet mercredi
 
 Le site bettermotherfuckingwebsite contient des codes html, CSS et des codes java script qui après 10 secondes lance un popup qui peut diriger vers un autre site si "ok" est cliqué
 
